@@ -1,3 +1,18 @@
+# Demo example:
+Check the docs at [pandoc.org](http://pandoc.org/demos.html)
+
+# Source code:
+GitHub at  [github.com](https://github.com/jgm/pandoc)
+
+## Requirements
+
+```bash
+sudo yum install pandoc
+```
+
+# Pandoc manual
+
+```bash
 pandoc [OPTIONS] [FILES]
 Input formats:  docbook, haddock, html, json, latex, markdown, markdown_github,
                 markdown_mmd, markdown_phpextra, markdown_strict, mediawiki,
@@ -82,3 +97,4 @@ Options:
                         --ignore-args                                   
   -v                    --version                                       
   -h                    --help                                          
+```
